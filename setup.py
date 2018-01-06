@@ -1,7 +1,7 @@
 from distutils.core import setup
 setup(
-  name = 'require-py',
-  packages = ['require-py'],
+  name = 'python-require',
+  packages = ['require'],
   version = '0.1',
   description = 'my preferred module semantics for python',
   author = 'Marc Burns',
